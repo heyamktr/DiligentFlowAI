@@ -3,7 +3,7 @@
 ## 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/heyamktr/Authorized-to-Act-Auth0-for-AI-Agents/tree/Backend-ONLY 
 cd <your-repo-folder>/backend
 ```
 
