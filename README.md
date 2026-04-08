@@ -1,7 +1,5 @@
 # DiligentFlowAI
 
-📌 [Original Repository](https://github.com/heyamktr/DiligentFlowAI)
-
 👨‍💻 Authors: 
 [Shravan Devraj](https://github.com/SpectralProgrammer) and 
 [Khanh Truong](https://github.com/heyamktr)
