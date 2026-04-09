@@ -11,7 +11,7 @@ Built for Authorized to Act: Auth0 for AI Agents (Devpost)
 
 ---
 
->[!CAUTION]
+>[!NOTE]
 >Deployment Notice
 >If the deployed link is not working, it is most likely due to exceeding the Gemini API free-tier limits. 
 >This project uses the free version of the API strictly for demonstration purposes, and we currently do not have the resources to support a paid external AI service.
